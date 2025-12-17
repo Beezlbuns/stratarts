@@ -19,6 +19,7 @@ Thumbs.db
 docs/
 .strategy/
 .claude/
+!.claude/html-templates/
 CLAUDE.md
 
 # Backup files
