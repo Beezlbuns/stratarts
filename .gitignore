@@ -19,6 +19,7 @@ Thumbs.db
 docs/
 .strategy/
 .claude/
+CLAUDE.md
 
 # Backup files
 *.backup
