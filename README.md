@@ -167,7 +167,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Maigent AI** - Building tools for the AI-powered entrepreneur
+**Maigent** - Building tools for the AI-powered entrepreneur
 
 ---
 
