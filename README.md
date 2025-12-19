@@ -81,33 +81,56 @@ StrategicArts is a comprehensive Claude Code skills library that guides entrepre
 
 ## Installation
 
-### Claude Code Marketplace (Recommended)
+### From GitHub Marketplace (Recommended)
+
 ```bash
-claude plugin install stratarts
+# Step 1: Add the StratArts marketplace
+/plugin marketplace add maigent/stratarts
+
+# Step 2: Install the plugin
+/plugin install stratarts@maigent
 ```
 
-### Manual Installation
+### Manual Installation (Local Development)
+
 ```bash
 git clone https://github.com/maigentic/stratarts.git
 cd stratarts
-claude plugin install .
+
+# Install from local directory
+/plugin install ./
+```
+
+### Verify Installation
+
+```bash
+# List installed plugins
+/plugin
+
+# You should see stratarts with 27 skills listed
 ```
 
 ---
 
 ## Usage
 
-Run any skill by name:
+Invoke any skill using the `/skill` command:
 
 ```bash
 # Validate a business idea
-claude run stratarts:business-idea-validator
+/skill stratarts:business-idea-validator
 
 # Create a pitch deck
-claude run stratarts:investor-pitch-deck-builder
+/skill stratarts:investor-pitch-deck-builder
 
 # Build a financial model
-claude run stratarts:financial-model-architect
+/skill stratarts:financial-model-architect
+```
+
+Or simply ask Claude to use a skill:
+
+```
+"Use the business-idea-validator skill to analyze my startup idea"
 ```
 
 ### Recommended Workflow
